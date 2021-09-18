@@ -1,0 +1,11 @@
+{
+    "name": "Tomilee",
+    "edad": 21,
+    "helados_favoritos":["piña", "chocolate", "chirimoya"],
+    "polola":
+    {
+        "nombre": "Lorenita",
+        "edad": 21,
+        "helados_favoritos":["pues", "no", "se", "xd"]
+    }
+}
